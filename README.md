@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build Status">
+  <img src="https://img.shields.io/badge/code%20style-ruff-blue?style=flat-square" alt="Code Style">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/language-Rust%20%7C%20Python%20%7C%20Go-orange?style=flat-square" alt="Languages">
+</p>
+
 # Tent of Trials
 
 Trading and risk platform.
